@@ -1,0 +1,8 @@
+Ensure the correct dependencies are installed
+This software is inteded to run on python3
+
+Acknowledgements:
+  * NCBI - for nucleotide sequences
+  * RCSB PDB - for protein structures
+  * Plotly & py3Dmol - for visualization
+  * OpenAI - for AI-generated explanations
